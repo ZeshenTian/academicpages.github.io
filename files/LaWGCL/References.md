@@ -1,0 +1,71 @@
+# Selected References
+
+This markdown file lists some papers I have read during my research, focusing on improving graph collaborative filtering by layer-wise contrastive learning. I list their title, source(i.e. where do I find this paper) and hyperlink. These papers have either been accepted or submitted to top conferences or journals in their communities. For each paper listed below, I have read its **Abstract**, **Introduction**, and **Conclusion** sections. Papers marked with a single asterisk (*) indicate that I have thoroughly read the entire paper, while those marked with a double asterisk (\*\*) signify that I have carefully critique the paper and successfully reproduced its methods. Some papers, which I have only read the **Abstract** of or learned about from online presentations, are not included in this list. 
+
+### 1 Graph Neural Network
+
+| Title                                                        | Source             |
+| ------------------------------------------------------------ | ------------------ |
+| [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907) | ICLR2017           |
+| [Graph Attention Networks](https://arxiv.org/pdf/1710.10903) | ICLR2018           |
+| [SGFormer: Simplifying and Empowering Transformers for Large-Graph Representations](https://arxiv.org/pdf/2306.10759) | NIPS2023           |
+| [DropMessage: Unifying Random Dropping for Graph Neural Networks](https://arxiv.org/pdf/2204.10037) | AAAI2023           |
+| [Cooperative Graph Neural Networks](https://arxiv.org/pdf/2310.01267) | ICML2024           |
+| *[GTC: GNN-Transformer Co-contrastive Learning for Self-supervised Heterogeneous Graph Representation](https://arxiv.org/pdf/2403.15520) | Neural Network2024 |
+
+### 2 Contrastive Learning
+
+| Title                                                        | Source   |
+| ------------------------------------------------------------ | -------- |
+| [Understanding contrastive representation learning through alignment and uniformity on the hypersphere](https://arxiv.org/pdf/2005.10242) | ICML2020 |
+| [Supervised contrastive learning](https://arxiv.org/pdf/2004.11362) | NIPS2021 |
+| [Momentum contrast for unsupervised visual representation learning](https://arxiv.org/pdf/1911.05722) | CVPR2020 |
+
+### 3 Graph Contrastive Learning
+
+| Title                                                        | Source   |
+| ------------------------------------------------------------ | -------- |
+| *[Graph contrastive learning with augmentations](https://arxiv.org/pdf/2010.13902) | NIPS2020 |
+| [Graph Contrastive Learning with Adaptive Augmentation](https://arxiv.org/pdf/2010.14945) | WWW2021  |
+| [SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation](https://arxiv.org/pdf/2202.03104) | WWW2022  |
+| *[ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning](https://arxiv.org/pdf/2110.02027) | ICML2022 |
+| *[ReGCL: Rethinking Message Passing in Graph Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28698) | AAAI2024 |
+| *[A New Mechanism for Eliminating Implicit Conflict in Graph Contrastive Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29125) | AAAI2024 |
+
+### 4 Recommendation
+
+#### 4.1 Graph Recommendation
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| [Neural graph collaborative filtering](https://arxiv.org/pdf/1905.08108) | SIGIR2019 |
+| **[Lightgcn: Simplifying and powering graph convolution network for recommendation](https://arxiv.org/pdf/2002.02126) | SIGIR2020 |
+| *[A neural influence diffusion model for social recommendation](https://arxiv.org/pdf/1904.10322) | SIGIR2020 |
+| [SimpleX: A Simple and Strong Baseline for Collaborative Filtering](https://arxiv.org/pdf/2109.12613) | CIKM2021  |
+
+#### 4.2 Graph Contrastive Learning for Collaborative Filtering
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| **[Self-supervised graph learning for recommendation](https://arxiv.org/pdf/2010.10783) | SIGIR2021 |
+| **[Are graph augmentations necessary? simple graph contrastive learning for recommendation](https://arxiv.org/pdf/2112.08679) | SIGIR2022 |
+| **[Improving graph collaborative filtering with neighborhood-enriched contrastive learning](https://arxiv.org/abs/2202.06200) | WWW2022   |
+| **[XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2209.02544) | TKDE2023  |
+| [A Review-aware Graph Contrastive Learning Framework for Recommendation](https://arxiv.org/abs/2204.12063) | SIGIR2022 |
+| [LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2302.08191) | ICLR2023  |
+| *[Generative-Contrastive Graph Learning for Recommendation](https://arxiv.org/pdf/2307.05100) | SIGIR2023 |
+| *[Candidate-aware Graph Contrastive Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539618.3591647) | SIGIR2023 |
+| **[Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering](https://arxiv.org/pdf/2402.11523) | TKDE2024  |
+| [Dual Adversarial Perturbators Generate rich Views for Recommendation](https://arxiv.org/pdf/2409.06719) | arxiv2024 |
+| [Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation](https://arxiv.org/pdf/2409.05633) | arxiv2024 |
+| [L^2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering](https://arxiv.org/pdf/2407.14266) | arxiv2024 |
+
+#### 4.3 Attack
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| [Attacking Recommender Systems with Augmented User Profiles](https://arxiv.org/abs/2005.08164) | CIKM2020  |
+| [Influence-Driven Data Poisoning for Robust Recommender Systems](https://ieeexplore.ieee.org/document/10122715) | TPAMI2023 |
+| [Poisoning Attacks and Defenses in Recommender Systems: A Survey](https://arxiv.org/pdf/2406.01022) | arxiv2024 |
+| [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://dl.acm.org/doi/abs/10.1145/3637528.3671795) | KDD2024   |
+| [Uplift Modeling for Target User Attacks on Recommender Systems](https://arxiv.org/abs/2403.02692) | WWW2024   |
