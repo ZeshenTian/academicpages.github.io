@@ -1,0 +1,59 @@
+# Selected References
+
+This markdown file lists some papers I have read during my research, focusing on improving LLM-based financial risk prediction by Retrieval Augmented Generation(i.e. RAG). I list their title, source(i.e. where do I find this paper) and hyperlink. These papers have either been accepted or submitted to top conferences or journals in their communities. For each paper listed below, I have read its **Abstract**, **Introduction**, and **Conclusion** sections. Papers marked with a single asterisk (*) indicate that I have thoroughly read the entire paper, while those marked with a double asterisk (\*\*) signify that I have carefully critique the paper and successfully reproduced its methods(if it has). Some papers, which I have only read the **Abstract** of or learned about from online presentations, are not included in this list. **I have also read a [textbook](https://llmbook-zh.github.io/) about large language models (LLMs). I'll continue to deepen my understanding of LLMs and its related applications.**
+
+### 1 Financial Risk Prediction
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| [RiskLabs: Predicting Financial Risk Using Large Language Model Based on Multi-Sources Data](https://arxiv.org/pdf/2404.07452) | arxiv2024 |
+| *[Unlocking the Power of Voice for Financial Risk Prediction: A Theory-Driven Deep Learning Design Approach](https://aisel.aisnet.org/misq/vol47/iss1/5/) | MISQ2023  |
+
+### 2 Retrieval Augmented Generation
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| **[Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924) | arxiv2024 |
+| *[From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130) | arxiv2024 |
+| **[A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958) | arxiv2025 |
+| [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779) | arxiv2024 |
+| [Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2408.04187) | arxiv2024 |
+
+### 3 Large Language Model for Finance
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| **[A Survey of Large Language Models in Finance (FinLLMs)](https://arxiv.org/pdf/2402.02315) | arxiv2023 |
+| [Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing](https://arxiv.org/abs/2310.12664) | EMNLP2023 |
+| [Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models](https://arxiv.org/abs/2304.07619) | arxiv2024 |
+| **[News-induced Dynamic Networks for Market Signaling: Understanding Impact of News on Firm Equity Value](https://pubsonline.informs.org/doi/10.1287/isre.2020.0969) | ISR2021   |
+| **[FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031) | arxiv2023 |
+| **[Revolutionizing Finance with LLMs: An Overview of Applications and Insights](https://arxiv.org/abs/2401.11641) | arxiv2024 |
+| [Do We Need Domain-Specific Embedding Models? An Empirical Investigation](https://arxiv.org/pdf/2409.18511) | arxiv2025 |
+
+### 4 Graph Neural Networks
+
+| Title                                                        | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| *[GCN for HIN via Implicit Utilization of Attention and Meta-paths](https://arxiv.org/abs/2007.02643) | TKDE2020                                                     |
+| *[Heterogeneous Graph Attention Network](https://arxiv.org/abs/1903.07293) | WWW2019                                                      |
+| *[A Review-aware Graph Contrastive Learning Framework for Recommendation](https://arxiv.org/abs/2204.12063) | SIGIR2022                                                    |
+| *[Graph Transformer Networks](https://arxiv.org/abs/1911.06455) | NIPS2020                                                     |
+| [Representing and discovering heterogeneous interactions for financial risk assessment of SMEs](https://www.sciencedirect.com/science/article/pii/S0957417424001957) | [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)2024 |
+| *[Assessing financial distress of SMEs through event propagation: An adaptive interpretable graph contrastive learning model](https://www.sciencedirect.com/science/article/pii/S0167923624000289) | DSS2022                                                      |
+
+### 5 Other Related Papers
+
+| Title                                                        | Source                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **[Customizing Large Language Models for Business Context: Framework and Experiments](https://arxiv.org/abs/2312.10225) | arxiv2023                                                    |
+| *[Machine Learning in Information Systems Research](https://aisel.aisnet.org/misq/vol46/iss1/4/) | MISQ2022                                                     |
+| [The Good, the Bad, and the Social Media: Financial Implications of Social Media Reactions to Firm-Related News](https://www.tandfonline.com/doi/full/10.1080/07421222.2022.2096547) | JMIS2023                                                     |
+| **[Align Generative AI with Human Preferences: A Novel LLM Finetuning Method For Online Review Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4958220) | SSRN2024                                                     |
+| [Towards Full Delegation: Designing Ideal Agentic Behaviors for Travel Planning](https://arxiv.org/abs/2411.13904) | arxiv2024                                                    |
+| [Actor-network theory—the market test](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-954X.1999.tb03488.x) | [The Sociological Review](https://onlinelibrary.wiley.com/journal/1467954x)2006 |
+| [Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning](https://arxiv.org/abs/2410.23136) | arxiv2024                                                    |
+| [Beyond Pairwise Network Interactions: Implications for Information Centrality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708802) | SSRN2024                                                     |
+| [RosePO: Aligning LLM-based Recommenders with Human Values](https://arxiv.org/abs/2410.12519) | arxiv2024                                                    |
+| [Exploring the relationship between in-context learning and instruction tuning](https://arxiv.org/abs/2311.10367) | arxiv2024                                                    |
+

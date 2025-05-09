@@ -1,0 +1,45 @@
+# Selected References
+
+This markdown file lists some papers I have read during my research, focusing on the best proportion of human and generative AI in text co-creation. I list their title, source(i.e. where do I find this paper) and hyperlink. I ensure that these papers have either been accepted or submitted to top conferences or journals in their communities. For each paper listed below, I have read its **Abstract**, **Introduction**, and **Conclusion** sections. Papers marked with a single asterisk (*) indicate that I have thoroughly read the entire paper, while those marked with a double asterisk (\*\*) signify that I have carefully studied the paper and successfully reproduced its methods.. Some papers, which I have only read the **Abstract** of or learned about from online presentations, are not included in this list. 
+
+## 1 Human-AI Text Co-Creation
+
+### 1.1 Human-AI Collaboration
+
+Human-AI Collaboration(HAC) is an interdisciplinary field that focuses on designing better human-AI collaborative systems. It is primarily studied by researchers from computer science(CS), information system(IS), and human-computer interaction(HCI) communities. Their research focus on different subtopics: IS community mainly study the societal impact of generative AI(e.g. LLM) and how to tailor co-creation systems tailored for specific social topics(e.g. product ideation), CS community mainly evaluates how different co-creation paradigms affect content and human perspectives, while HCI community primarily explores ways to improve human-computer interaction. Therefore, I categorize these paper from a disciplinary perspective.
+
+#### 1.1.1 Information System
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| *[Human-AI Co-Creation in Product Ideation the Dual View of Quality and Diversity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668241) | SSRN2023  |
+| *[Generative AI, Human Creativity, and Art](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4594824) | SSRN2023  |
+| [Large language model in creative work: The role of collaboration modality and user expertise](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575598) | MS2023    |
+| [Spillover Effects of Generative AI on Human-Generated Content Creation Evidence from a Crowd-Sourcing Design Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693181) | SSRN2023  |
+| [1 + 1 *>* 2? information, humans, and machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4045718) | MISQ2024  |
+| [Customizing Large Language Models for Business Context Framework and Experiments](https://arxiv.org/abs/2312.10225) | arxiv2024 |
+
+#### 1.1.2 Computer Science
+
+| Title                                                        | Source    |
+| ------------------------------------------------------------ | --------- |
+| *[Does writing with language models reduce content diversity?](https://arxiv.org/pdf/2309.05196) | ICLR2024  |
+| [Harnessing the power of LLMs: Evaluating human-AI text co-creation through the lens of news headline generation](https://arxiv.org/pdf/2310.10706) | EMNLP2023 |
+| [How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?](https://arxiv.org/pdf/2410.04545) | EMNLP2024 |
+
+#### 1.1.3 Human-Computer Interaction
+
+| Title                                                        | Source  |
+| ------------------------------------------------------------ | ------- |
+| *[Mapping the Design Space of Interactions in Human-AI Text Co-creation Tasks](https://arxiv.org/pdf/2303.06430) | CHI2023 |
+| [CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities](https://arxiv.org/abs/2201.06796) | CHI2022 |
+
+### 1.2 Large Language Model
+
+| Title                                                        | Source              |
+| ------------------------------------------------------------ | ------------------- |
+| [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774)   | arxiv2023           |
+| *[A Survey on Evaluation of Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3641289) | arxiv2024           |
+| [Is gpt-4 a good data analyst?](https://arxiv.org/pdf/2305.15038) | ICLR2024            |
+| [Correlating and Predicting Human Evaluations of Language Models from Natural Language Processing Benchmarks](https://openreview.net/forum?id=52Idqv2FNY) | ICLR2025 OpenReview |
+
